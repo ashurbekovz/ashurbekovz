@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Zamir 👋  
 
-<!--
-**ashurbekovz/ashurbekovz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:  
+- 🧑‍💻 Software Engineer at [Yandex Cloud](https://yandex.cloud/en) (ex)  
+- 🎓 BSc in [Faculty of Computer Science](https://cs.hse.ru/en) at HSE University  
+- 🛠️ Developer of [VkTeX Bot](https://vk.com/vktexbot)  
 
-Here are some ideas to get you started:
+### Interests:  
+- 🔍 Search and recommendation systems  
+- ☁️ Cloud technologies and infrastructure  
+- 🛠️ Workspace automation (Neovim enjoyer)  
+- 🏆 Competitive programming  
+- 💻 Golang development and software architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More:  
+- 📧 **Telegram**: [**t.me/ashurbekovz**](https://t.me/ashurbekovz)  
+- 🔗 **LinkedIn**: [**in/ashurbekovz**](https://www.linkedin.com/in/ashurbekovz)  
+- 🌐 **Codeforces**: [**Derbent**](https://codeforces.com/profile/Derbent)  
+
+---
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about tech. 😄
