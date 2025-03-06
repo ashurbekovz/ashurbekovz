@@ -19,4 +19,4 @@
 
 ---
 
-Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about tech. 😄
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about tech.
