@@ -16,7 +16,8 @@
 - 🏆 Competitive Programming  
 
 ### 📫 More  
-- 📧 Telegram: [t.me/ashurbekovz](https://t.me/ashurbekovz)  
+- 📧 Email: ashurbekovz23@gmail.com
+- 📬 Telegram: [t.me/ashurbekovz](https://t.me/ashurbekovz)  
 - 🔗 LinkedIn: [in/ashurbekovz](https://www.linkedin.com/in/ashurbekovz)  
 - 🌐 Codeforces: [Derbent](https://codeforces.com/profile/Derbent)  
 
