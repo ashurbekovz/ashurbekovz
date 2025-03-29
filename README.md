@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 - 🧑‍💻 Software Engineer at [Yandex Cloud](https://yandex.cloud/en) (ex)  
 - 🎓 BSc in [Faculty of Computer Science](https://cs.hse.ru/) at HSE University  
-- 🛠️ Developer of [VkTeX Bot](https://vk.com/vktexbot) (ru)  
+- 🛠️ Maintainer of [vktexbot](https://github.com/ashurbekovz/vktexbot) ([ru](https://vk.com/vktexbot))  
 
 ### 💡 Expertise  
 - 💻 Golang Development: Building scalable and efficient backend systems  
